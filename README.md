@@ -9,5 +9,5 @@
 |   Team Leader   | Gokul Santhosh|CB.PS.I5DAS25111|MALE| DAS|Day Scholar|
 |    Member 2     |Harini | CB.PS.I5DAS25112 | FEMALE|DAS| Hosteller (Gargi Bahavanam)|
 |    Member 3     |Shahana| CB.PS.I5DAS25027 |FEMALE|DAS| Hosteller (Gargi Bhavanam)|
-|    Member 4     |Sarvajit|  CB.PS.I5DAS25140 MALE|DAS| Day Scholar|
+|    Member 4     |Sarvajit|  CB.PS.I5DAS25140 |MALE|DAS| Day Scholar|
 
