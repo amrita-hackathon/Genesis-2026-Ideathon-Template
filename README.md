@@ -1,13 +1,13 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
+## GEN26-A0H-I053
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<Team Flux >> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | RESIDENTAL STATUS|
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-----------------|
-|   Team Leader   | gokul santhosh          |     CB.PS.I5DAS25111  |     MALE| DAS|Day Scholar|
-|    Member 2     |  HARINI                 | CB.PS.I5DAS25112       |       FEMALE          |DAS|  hosteller (gargi bahavanam)|
-|    Member 3     | SHAHANA                  | CB.PS.I5DAS25027        |       FEMALE          |DAS|hosteller (gargi bhavanam)|
-|    Member 4     |           SARVAJIT         |  CB.PS.I5DAS25140     |         MALE        |DAS|   Day Scholar|
+|   Team Leader   | Gokul Santhosh|CB.PS.I5DAS25111|MALE| DAS|Day Scholar|
+|    Member 2     |Harini | CB.PS.I5DAS25112 | FEMALE|DAS| Hosteller (Gargi Bahavanam)|
+|    Member 3     |Shahana| CB.PS.I5DAS25027 |FEMALE|DAS| Hosteller (Gargi Bhavanam)|
+|    Member 4     |Sarvajit|  CB.PS.I5DAS25140 MALE|DAS| Day Scholar|
 
